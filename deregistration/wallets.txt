@@ -1,0 +1,4 @@
+
+## FORMAT: WALLET_NAME,HOT_KEY,SUBNET ID
+## EXAMPLE: main_wallet,5HpThZEZfgzq8D9GVhtZ1pVTfrhgkWyEPGpAo3DZd9asmr8x,27
+** DISCORD WEBHOOK: https://discord.com/api/webhooks/1195815043661561896/urT7hVUvicfNdFCAd-1mAr9pdv4g6xMQTa4-mR2eZEcpjmXmkL33mcVkmvNaXX13eJTR
